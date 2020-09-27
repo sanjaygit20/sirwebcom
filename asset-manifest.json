@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sirwebcom/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sirwebcom/static/js/main.b291dc44.chunk.js",
+    "main.js.map": "/sirwebcom/static/js/main.b291dc44.chunk.js.map",
+    "runtime-main.js": "/sirwebcom/static/js/runtime-main.461ac7d1.js",
+    "runtime-main.js.map": "/sirwebcom/static/js/runtime-main.461ac7d1.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/sirwebcom/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.9b2f7a4b.chunk.js": "/sirwebcom/static/js/2.9b2f7a4b.chunk.js",
+    "static/js/2.9b2f7a4b.chunk.js.map": "/sirwebcom/static/js/2.9b2f7a4b.chunk.js.map",
+    "index.html": "/sirwebcom/index.html",
+    "precache-manifest.216e2691d88a4cca4b87ecf96a124774.js": "/sirwebcom/precache-manifest.216e2691d88a4cca4b87ecf96a124774.js",
+    "service-worker.js": "/sirwebcom/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/sirwebcom/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/sirwebcom/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9b2f7a4b.chunk.js.LICENSE.txt": "/sirwebcom/static/js/2.9b2f7a4b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sirwebcom/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.461ac7d1.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.9b2f7a4b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b291dc44.chunk.js"
+  ]
+}
